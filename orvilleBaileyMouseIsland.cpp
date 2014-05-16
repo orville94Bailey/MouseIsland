@@ -6,11 +6,6 @@
 
 
 
-/*
-So this does basically nothing as I didn't utilize my time well enough
-to learn what I needed to learn and it's aplication and to do it.
-
-*/
 
 using namespace std;
 
